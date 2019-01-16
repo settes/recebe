@@ -1588,6 +1588,28 @@ body {
 .cid-reSSfkkqgi .mbr-iconfont {
   color: #951d19;
 }
+.cid-rfihVCPKIm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rfihVCPKIm .image-block {
+  margin: auto;
+}
+.cid-rfihVCPKIm figcaption {
+  position: relative;
+}
+.cid-rfihVCPKIm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rfihVCPKIm .image-block {
+    width: 100% !important;
+  }
+}
 .cid-reSRv4TIxB {
   padding-top: 0px;
   padding-bottom: 0px;
